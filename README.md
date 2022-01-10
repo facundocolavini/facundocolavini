@@ -9,9 +9,14 @@ const facundo = {
 }
 ```
 You can find me 🌎:
-- [LinkedIn](https://www.linkedin.com/in/facundo-colavini/)
+- [<img align="left" alt="portfolio" src="https://img.shields.io/badge/portfolio-%2312100E.svg"/>](https://facundocolavini.github.io/MyPortfolio/)
+- [<img align="left" alt="linkedIn" src="https://img.shields.io/badge/linkedIn-%2312100E.svg?"/>](https://www.linkedin.com/in/facundo-colavini/)
 - [Instagram](https://www.instagram.com/facundocolavini/)
-- [email](facu_colavini@hotmail.com)
+- [Email](facu_colavini@hotmail.com)
+
+Lastest works :
+  -[Etéro-Art-Studio](https://etereo-art-studio.netlify.app/)
+  -[Alkemy-Challenge](https://github.com/facundocolavini/superheroes)
 <!--
 **facundocolavini/facundocolavini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
