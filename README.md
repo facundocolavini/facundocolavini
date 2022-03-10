@@ -7,23 +7,23 @@
 <p> 💻 My Stack is MERN but i love SQL Server and Cloud services.</p>
 <p> 🛠 Performance Web and Web Development</p>
 <p>✨I am passionate about design and web and UI</p>
-<p>📘 I am a Technician in Applied Computer Science from the <a href="http://www.inspt.utn.edu.ar/academica/60_informatica_aplicada.html">UTN INSPT</a>.</p>
+<p>📘 I am a Technician in Applied Computer Science from the <a target="blank" href="http://www.inspt.utn.edu.ar/academica/60_informatica_aplicada.html">UTN INSPT</a>.</p>
 
 <h3>💬 CONTACT ME</h3><br>
-<p> 💊 <a href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></p>
-<p> 👨 <a href="https://www.linkedin.com/in/facundo-colavini">linkedin.com/in/facundo-colavini</a></p>
-<p> 📫 <a href="facu_colavini@hotmail.com">facu_colavini@hotmail.com</a></p>
+<p> 💊 <a target="blank" href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></p>
+<p> 👨 <a target="blank" href="https://www.linkedin.com/in/facundo-colavini">linkedin.com/in/facundo-colavini</a></p>
+<p> 📫 <a target="blank" href="facu_colavini@hotmail.com">facu_colavini@hotmail.com</a></p>
 
 <h3>🔭 LASTEST WORKS</h3><br>
-<p><a href="https://github.com/alkemyTech/OT130-CLIENT">Alkemy-acceleration-React</a></p>
-<p><a href="https://portfolio-drexler.netlify.app/">Portfofio-Drexler</a></p>
-<p><a href="https://etereo-art-studio.netlify.app/">Etéro-Art-Studio</a></p>
-<p><a href="https://github.com/facundocolavini/superheroes">Superheroes Challenge app for alkemy</a></p>
+<p><a target="blank" href="https://github.com/alkemyTech/OT130-CLIENT">Alkemy-acceleration-React</a></p>
+<p><a target="blank" href="https://portfolio-drexler.netlify.app/">Portfofio-Drexler</a></p>
+<p><a target="blank" href="https://etereo-art-studio.netlify.app/">Etéro-Art-Studio</a></p>
+<p><a target="blank" href="https://github.com/facundocolavini/superheroes">Superheroes Challenge app for alkemy</a></p>
 
 <h3>🛠 STACK</h3><br>
 
-<a href="https://www.w3schools.com/sass/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
-<a href="https://reactjs.org/" target="_blank"><img  width="30" height="30" src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a href="https://www.w3schools.com/sass/" target="blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
+<a href="https://reactjs.org/" target="_blank"><img  width="3" height="3" src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"/></a>
