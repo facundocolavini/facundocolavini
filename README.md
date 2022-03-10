@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facundo </h1>
-<br clear="right"/>
-<br clear="middle"/><p  width="500" align="middle" ><img  width="500" src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></p>
+<p  width="500" align="right" ><img  width="500" src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></p>
 
 
 
