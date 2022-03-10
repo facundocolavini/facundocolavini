@@ -4,7 +4,7 @@
 ```js
 const facundo = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node, Express ,MongoDB , Styled-Components],
+  tools: [React, Node, Express ,MongoDB , Styled-Components, Redux],
   technologies: 'web',
   passions: ['performance web','web development'],
 }
