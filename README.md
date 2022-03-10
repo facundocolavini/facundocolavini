@@ -7,7 +7,7 @@
 <p> 💻 My Stack is MERN but i love SQL Server and Cloud services.</p>
 <p> 🛠 Performance Web and Web Development</p>
 <p>✨I am passionate about design and web and UI</p>
-<p>📘 I am a Technician in Applied Computer Science from the UTN INSPT [UTN INSPT](http://www.inspt.utn.edu.ar/academica/60_informatica_aplicada.html).</p>
+<p>📘 I am a Technician in Applied Computer Science from the <a href="http://www.inspt.utn.edu.ar/academica/60_informatica_aplicada.html">UTN INSPT</a>.</p>
 
 <h3>💬 CONTACT ME</h3><br>
 -   [Portfolio](https://facundocolavini.github.io/MyPortfolio/) 
