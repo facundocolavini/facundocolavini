@@ -4,7 +4,7 @@
 <p align="center"><a href="https://facu_colavini@hotmail.com">Email</a> • <a target="_blank" href="https://www.linkedin.com/in/facundo-colavini">LinkeIn</a> • <a href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></>
 <hr>
 
-<h3 align="center"><img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="330" height="140" /></h3>
+<h3 align="center"><img align="right" src="https://propulsive.in/assets/img/service-icon/app.gif" width="330" height="140" /></h3>
 <h3>⭐ ABOUT ME</h3><br>
 <p>🌱 Im Currently learning news technologies like Next.js</p>
 <p>🔭 Working in a personal project with MongoDB, Express, React and Node.</p>
