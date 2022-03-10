@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
-<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'+am+a+fullstack+developer">
+<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer">
 
 ```js
 const facundo = {
