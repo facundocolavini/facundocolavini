@@ -1,4 +1,10 @@
-<h1 align="left">Hi 👋, I'm Facundo <img align="middle" src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></h1>
+<h1 align="left">Hi 👋, I'm Facundo</h1>
+
+<h3 align="center"><img align="middle" src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></h3>
+<p align="center">📍 Toulouse, 🇫🇷 France | 💻 Currently work at <a href="https://github.com/Humans-Connexion">@Humans-Connexion</a></p>
+<p align="center"><a href="https://twitter.com/Lu_K_s_">Twitter</a> • <a href="https://www.linkedin.com/in/lucas-caussat/">LinkeIn</a> • <a href="https://www.twitch.tv/lu_kss">Twitch</a>
+<hr>
+
 
 <h3 align="center"><img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="330" height="140" /></h3>
 <h3>⭐ ABOUT ME</h3><br>
@@ -7,18 +13,18 @@
 <p> 💻 My Stack is MERN but i love SQL Server and Cloud services.</p>
 <p> 🛠 Performance Web and Web Development</p>
 <p>✨I am passionate about design and web and UI</p>
-<p>📘 I am a Technician in Applied Computer Science from the <a target="blank" href="http://www.inspt.utn.edu.ar/academica/60_informatica_aplicada.html">UTN INSPT</a>.</p>
+<p>📘 I am a Technician in Applied Computer Science from the <a target="_blank" href="http://www.inspt.utn.edu.ar/academica/60_informatica_aplicada.html">UTN INSPT</a>.</p>
 
 <h3>💬 CONTACT ME</h3><br>
-<p> 💊 <a target="blank" href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></p>
-<p> 👨 <a target="blank" href="https://www.linkedin.com/in/facundo-colavini">linkedin.com/in/facundo-colavini</a></p>
-<p> 📫 <a target="blank" href="facu_colavini@hotmail.com">facu_colavini@hotmail.com</a></p>
+<p> 💊 <a target="_blank" href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></p>
+<p> 👨 <a target="_blank" href="https://www.linkedin.com/in/facundo-colavini">linkedin.com/in/facundo-colavini</a></p>
+<p> 📫 facu_colavini@hotmail.com</p>
 
 <h3>🔭 LASTEST WORKS</h3><br>
-<p><a target="blank" href="https://github.com/alkemyTech/OT130-CLIENT">Alkemy-acceleration-React</a></p>
-<p><a target="blank" href="https://portfolio-drexler.netlify.app/">Portfofio-Drexler</a></p>
-<p><a target="blank" href="https://etereo-art-studio.netlify.app/">Etéro-Art-Studio</a></p>
-<p><a target="blank" href="https://github.com/facundocolavini/superheroes">Superheroes Challenge app for alkemy</a></p>
+<p><a target="_blank" href="https://github.com/alkemyTech/OT130-CLIENT">Alkemy-acceleration-React</a></p>
+<p><a target="_blank" href="https://portfolio-drexler.netlify.app/">Portfofio-Drexler</a></p>
+<p><a target="_blank" href="https://etereo-art-studio.netlify.app/">Etéro-Art-Studio</a></p>
+<p><a target="_blank" href="https://github.com/facundocolavini/superheroes">Superheroes Challenge app for alkemy</a></p>
 
 <h3>🛠 STACK</h3><br>
 
