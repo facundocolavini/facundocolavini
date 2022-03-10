@@ -13,14 +13,12 @@
 <p>✨I am passionate about design and web and UI</p>
 <p>📘 I am a Technician in Applied Computer Science from the <a target="_blank" href="http://www.inspt.utn.edu.ar/academica/60_informatica_aplicada.html">UTN INSPT</a>.</p>
 
-<img align="right"  src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" width="30%" height="30%"/>
 <h3>💬 CONTACT ME</h3><br>
 <p> 💊 <a target="_blank" href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></p>
 <p> 👨 <a target="_blank" href="https://www.linkedin.com/in/facundo-colavini">linkedin.com/in/facundo-colavini</a></p>
 <p> 📫 facu_colavini@hotmail.com</p>
 
-
-<img align="right"  src="https://makersmind.in/assets/images/trainweb.gif" width="30%" height="30%"/>
+<img align="right" src="https://makersmind.in/assets/images/trainweb.gif" width="30%" height="30%"/>
 <h3>🔭 LASTEST WORKS</h3><br>
 <p><a target="_blank" href="https://github.com/alkemyTech/OT130-CLIENT">Alkemy-acceleration-React</a></p>
 <p><a target="_blank" href="https://portfolio-drexler.netlify.app/">Portfofio-Drexler</a></p>
@@ -28,7 +26,6 @@
 <p><a target="_blank" href="https://github.com/facundocolavini/superheroes">Superheroes Challenge app for alkemy</a></p>
 
 <h3>🛠 STACK</h3><br>
-
 <a href="https://www.w3schools.com/sass/" target="blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/office/48/000000/react.png"/></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
