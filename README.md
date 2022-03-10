@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Facundo <img align="middle" src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></h1>
+<h1 align="left">Hi 👋, I'm Facundo <img align="middle" src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></h1>
 ```js
 const facundo = {
   code: [Javascript, Typescript, HTML, CSS],
