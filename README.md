@@ -19,8 +19,8 @@
 <p> 👨 <a target="_blank" href="https://www.linkedin.com/in/facundo-colavini">linkedin.com/in/facundo-colavini</a></p>
 <p> 📫 facu_colavini@hotmail.com</p>
 
-https://makersmind.in/assets/images/trainweb.gif
-<img align="right"  src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" width="30%" height="30%"/>
+
+<img align="right"  src="https://makersmind.in/assets/images/trainweb.gif" width="30%" height="30%"/>
 <h3>🔭 LASTEST WORKS</h3><br>
 <p><a target="_blank" href="https://github.com/alkemyTech/OT130-CLIENT">Alkemy-acceleration-React</a></p>
 <p><a target="_blank" href="https://portfolio-drexler.netlify.app/">Portfofio-Drexler</a></p>
