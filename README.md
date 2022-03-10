@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Facundo </h1>
 <p  width="500" align="right" ><img  width="700" src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></p>
 <p align="center">📍 Buenos Aires, Argentina | 💻 Currently work at Freelance</p>
-<p align="center"><a href="https://facu_colavini@hotmail.com">Email</a> • <a target="_blank" href="https://www.linkedin.com/in/facundo-colavini">LinkeIn</a> • <a href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></>
+<p align="center"><a href="https://facu_colavini@hotmail.com">facu_colavini@hotmail.com</a> • <a target="_blank" href="https://www.linkedin.com/in/facundo-colavini">LinkeIn</a> • <a href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></>
 <hr>
 
 <img align="right"  src="https://www.opcito.com/hs-fs/hubfs/Product-and-test-engineering_01-1.gif?width=467&height=400&name=Product-and-test-engineering_01-1.gif" width="30%" height="30%"/>
