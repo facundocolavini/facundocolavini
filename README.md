@@ -14,7 +14,7 @@
 <p> 👨 <a href="https://www.linkedin.com/in/facundo-colavini">linkedin.com/in/facundo-colavini</a></p>
 <p> 📫 <a href="facu_colavini@hotmail.com">facu_colavini@hotmail.com</a></p>
 
-<h3>🔭 LASTEST WORKS</h3>
+<h3>🔭 LASTEST WORKS</h3><br>
 <p><a href="https://github.com/alkemyTech/OT130-CLIENT">Alkemy-acceleration-React</a></p>
 <p><a href="https://portfolio-drexler.netlify.app/">Portfofio-Drexler</a></p>
 <p><a href="https://etereo-art-studio.netlify.app/">Etéro-Art-Studio</a></p>
