@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facundo </h1>
-<p  width="500" align="right" ><img  width="600" src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></p>
+<p  width="500" align="right" ><img  width="auto" src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></p>
 <p align="center">📍 Buenos Aires, Argentina | 💻 Currently work at Freelance</p>
 <p align="center"><a href="mailto:facu_colavini@hotmail.com">Email</a> • <a target="_blank" href="https://www.linkedin.com/in/facundo-colavini">LinkeIn</a> • <a href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></>
 <hr>
