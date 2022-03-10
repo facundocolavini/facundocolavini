@@ -11,15 +11,15 @@
 
 <h3>💬 CONTACT ME</h3><br>
 <p> <a href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></p>
-<p> 👨 [linkedin.com/in/facundo-colavini](https://www.linkedin.com/in/facundo-colavini/)</p>
-<p> 📫 **facu_colavini@hotmail.com**</p>
-<hr>
-Lastest works :
-- [Alkemy-acceleration-React](https://github.com/alkemyTech/OT130-CLIENT)
-- [Portfofio-Drexler](https://portfolio-drexler.netlify.app/)
-- [Etéro-Art-Studio](https://etereo-art-studio.netlify.app/)
-- [Alkemy-Challenge](https://github.com/facundocolavini/superheroes)
+<p> 👨 <a href="https://www.linkedin.com/in/facundo-colavini">linkedin.com/in/facundo-colavini</a></p>
+<p> 📫 <a href="facu_colavini@hotmail.com">facu_colavini@hotmail.com</a></p>
 
+<h3>🔭 LASTEST WORKS</h3>
+<p><a href="https://github.com/alkemyTech/OT130-CLIENT">Alkemy-acceleration-React</a></p>
+<p><a href="https://portfolio-drexler.netlify.app/">Portfofio-Drexler</a></p>[Portfofio-Drexler](https://portfolio-drexler.netlify.app/)
+<p><a href="https://etereo-art-studio.netlify.app/">Etéro-Art-Studio</a></p>[Etéro-Art-Studio](https://etereo-art-studio.netlify.app/)
+<p><a href="https://github.com/facundocolavini/superheroes">Superheroes Challenge app for alkemy</a></p>
+<hr>
 <h3>🛠 STACK</h3><br>
 
 <a href="https://www.w3schools.com/sass/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
