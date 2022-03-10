@@ -23,7 +23,7 @@
 <h3>🛠 STACK</h3><br>
 
 <a href="https://www.w3schools.com/sass/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a href="https://reactjs.org/" target="_blank"><img  width="30" height="30" src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"/></a>
