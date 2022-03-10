@@ -1,22 +1,15 @@
 <h1 align="left">Hi 👋, I'm Facundo <img align="middle" src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></h1>
-```js
-const facundo = {
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node, Express, MongoDB],
-  technologies: 'web',
-  passions: ['performance web','web development'],
-}
-```
+
 <h3 align="center"><img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="330" height="140" /></h3>
 <h3>⭐ ABOUT ME</h3><br>
+<p>🌱 Im Currently learning news technologies like Next.js</p>
+<p>🔭 Working in a personal project with MongoDB, Express, React and Node.</p>
+<p> 💻 My Stack is MERN but i love SQL Server and Cloud services.</p>
+<p> 🛠 Performance Web and Web Development</p>
+<p>✨I am passionate about design and web and UI</p>
+<p>📘 I am a Technician in Applied Computer Science from the UTN INSPT [UTN INSPT](http://www.inspt.utn.edu.ar/academica/60_informatica_aplicada.html).</p>
 
-- 🔭 Working in a personal project with MongoDB, Express, React and Node.
-
-- 💻 My Stack is MERN but i love SQL Server and Cloud services.
-
-- 📘 I am a Technician in Applied Computer Science from the UTN INSPT [UTN INSPT](http://www.inspt.utn.edu.ar/academica/60_informatica_aplicada.html).
-
-### Contact Me:
+<h3>💬 CONTACT ME</h3><br>
 -   [Portfolio](https://facundocolavini.github.io/MyPortfolio/) 
 - 👨 [linkedin.com/in/facundo-colavini](https://www.linkedin.com/in/facundo-colavini/)
 - 📫 **facu_colavini@hotmail.com**
@@ -44,12 +37,14 @@ Lastest works :
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.icons8.com/color/48/000000/jira.png"/></a>
+<a href="https://www.figma.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
 
 <!--
 **facundocolavini/facundocolavini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cuando saquemos el disco agregar esto :
 
 Here are some ideas to get you started:
-
+<p>✨Fun fact: I'm in a band called Red Patrol and I'm a the second guitar player... if you're interested, give us a listen.</p>
 - 🔭 I’m currently working on drexler portfolio a project freelance
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
