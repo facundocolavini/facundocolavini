@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Facundo
-<h1 align="center"><img  align="center" src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></h1>
+<h1 align="center">Hi 👋, I'm Facundo <img  align="center" src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer">
+<h1 align="center"></h1>
 </h1>
 
 
