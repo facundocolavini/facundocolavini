@@ -23,10 +23,10 @@
 <h3>🛠 STACK</h3><br>
 
 <a href="https://www.w3schools.com/sass/" target="blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/express.png"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react.png"/></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/express.png"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgresql.png"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
