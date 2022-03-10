@@ -12,13 +12,15 @@
 <p> 🛠 Performance Web and Web Development</p>
 <p>✨I am passionate about design and web and UI</p>
 <p>📘 I am a Technician in Applied Computer Science from the <a target="_blank" href="http://www.inspt.utn.edu.ar/academica/60_informatica_aplicada.html">UTN INSPT</a>.</p>
-https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif
+
 <img align="right"  src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" width="30%" height="30%"/>
 <h3>💬 CONTACT ME</h3><br>
 <p> 💊 <a target="_blank" href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></p>
 <p> 👨 <a target="_blank" href="https://www.linkedin.com/in/facundo-colavini">linkedin.com/in/facundo-colavini</a></p>
 <p> 📫 facu_colavini@hotmail.com</p>
 
+https://makersmind.in/assets/images/trainweb.gif
+<img align="right"  src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" width="30%" height="30%"/>
 <h3>🔭 LASTEST WORKS</h3><br>
 <p><a target="_blank" href="https://github.com/alkemyTech/OT130-CLIENT">Alkemy-acceleration-React</a></p>
 <p><a target="_blank" href="https://portfolio-drexler.netlify.app/">Portfofio-Drexler</a></p>
