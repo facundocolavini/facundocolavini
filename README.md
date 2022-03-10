@@ -4,17 +4,23 @@
 ```js
 const facundo = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node, Express, MongoDB, Styled-Components, Redux, Bootstrap, Sass, MySQL],
-  cloud: [Firestore]
+  tools: [React, Node, Express, MongoDB],
   technologies: 'web',
   passions: ['performance web','web development'],
 }
 ```
-You can find me 🌎:
-- [Portfolio](https://facundocolavini.github.io/MyPortfolio/)
-- [LinkedIn](https://www.linkedin.com/in/facundo-colavini/)
-- [Instagram](https://www.instagram.com/facundocolavini/)
-- [Email](facu_colavini@hotmail.com)
+<img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="330" height="140" />
+
+- 🔭 Working in a personal project with MongoDB, Express, React and Node.
+
+- 💻 My Stack is MERN but i love SQL Server and Cloud services.
+
+- 📘 I am a Technician in Applied Computer Science from the UTN INSPT. [UTN INSPT](http://www.inspt.utn.edu.ar/academica/60_informatica_aplicada.html)
+
+### Contact Me:
+-   [Portfolio](https://facundocolavini.github.io/MyPortfolio/) 
+- 👨 [linkedin.com/in/facundo-colavini](https://www.linkedin.com/in/facundo-colavini/)
+- 📫 **facu_colavini@hotmail.com**
 
 Lastest works :
 - [Alkemy-acceleration-React](https://github.com/alkemyTech/OT130-CLIENT)
