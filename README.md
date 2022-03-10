@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 
-<h3 align="center"><p align="center"><img align="center" width="600" src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></p></h3>
+<h3 align="center"><p align="center"><img align="center" width="600" height="500" src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></p></h3>
 <p align="center">📍 Toulouse, 🇫🇷 France | 💻 Currently work at <a href="https://github.com/Humans-Connexion">@Humans-Connexion</a></p>
 <p align="center"><a href="https://twitter.com/Lu_K_s_">Twitter</a> • <a href="https://www.linkedin.com/in/lucas-caussat/">LinkeIn</a> • <a href="https://www.twitch.tv/lu_kss">Twitch</a>
 <hr>
