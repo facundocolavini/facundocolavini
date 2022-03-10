@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facundo <img align="right" width="600"  src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></h1>
-
-<a href="https://heroku.com/deploy">
-  <img  align="right"  src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+<hr>
 
 <h3 align="center"><img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="330" height="140" /></h3>
 <h3>⭐ ABOUT ME</h3><br>
