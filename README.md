@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></h2>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></h1>
 
 ```js
 const facundo = {
@@ -16,7 +16,7 @@ const facundo = {
 
 - 💻 My Stack is MERN but i love SQL Server and Cloud services.
 
-- 📘 I am a Technician in Applied Computer Science from the UTN INSPT. [UTN INSPT](http://www.inspt.utn.edu.ar/academica/60_informatica_aplicada.html)
+- 📘 I am a Technician in Applied Computer Science from the UTN INSPT [UTN INSPT](http://www.inspt.utn.edu.ar/academica/60_informatica_aplicada.html).
 
 ### Contact Me:
 -   [Portfolio](https://facundocolavini.github.io/MyPortfolio/) 
