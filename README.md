@@ -1,4 +1,4 @@
-### Hi there, I'm Facundo 👋 💻  
+<h1 align="center">Hi 👋, I'm Facundo</h1>
 <img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'+am+a+fullstack+developer">
 
 ```js
@@ -9,7 +9,7 @@ const facundo = {
   passions: ['performance web','web development'],
 }
 ```
-<img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="330" height="140" />
+<h3 align="center"><img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="330" height="140" /></h3>
 
 - 🔭 Working in a personal project with MongoDB, Express, React and Node.
 
