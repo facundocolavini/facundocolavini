@@ -37,8 +37,8 @@ Lastest works :
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>\
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
-<a href="https://www.git.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-<a href="https://www.jira.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/jira.png"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.icons8.com/color/48/000000/jira.png"/></a>
 
 <!--
 **facundocolavini/facundocolavini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
