@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Facundo
-<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer">
-</h1>
+<h1 align="center">Hi 👋, I'm Facundo</h1>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></h2>
+
 ```js
 const facundo = {
   code: [Javascript, Typescript, HTML, CSS],
@@ -10,6 +10,7 @@ const facundo = {
 }
 ```
 <h3 align="center"><img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="330" height="140" /></h3>
+<h3>⭐ ABOUT ME</h3><br>
 
 - 🔭 Working in a personal project with MongoDB, Express, React and Node.
 
@@ -28,7 +29,7 @@ Lastest works :
 - [Etéro-Art-Studio](https://etereo-art-studio.netlify.app/)
 - [Alkemy-Challenge](https://github.com/facundocolavini/superheroes)
 
-### Some other tools I use
+<h3>🛠 STACK</h3><br>
 
 <a href="https://www.w3schools.com/sass/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
