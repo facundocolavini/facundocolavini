@@ -4,7 +4,7 @@
 <p align="center"><a href="https://facu_colavini@hotmail.com">Email</a> • <a target="_blank" href="https://www.linkedin.com/in/facundo-colavini">LinkeIn</a> • <a href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></>
 <hr>
 
-<img align="right"  src="https://www.opcito.com/hs-fs/hubfs/Product-and-test-engineering_01-1.gif?width=467&height=400&name=Product-and-test-engineering_01-1.gif"/>
+<img align="right"  src="https://www.opcito.com/hs-fs/hubfs/Product-and-test-engineering_01-1.gif?width=467&height=400&name=Product-and-test-engineering_01-1.gif" width"30%" height"30%" />
 <h3>⭐ ABOUT ME</h3><br>
 <p>🌱 Im Currently learning news technologies like Next.js</p>
 <p>🔭 Working in a personal project with MongoDB, Express, React and Node.</p>
