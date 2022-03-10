@@ -10,10 +10,10 @@
 <p>📘 I am a Technician in Applied Computer Science from the <a href="http://www.inspt.utn.edu.ar/academica/60_informatica_aplicada.html">UTN INSPT</a>.</p>
 
 <h3>💬 CONTACT ME</h3><br>
--   [Portfolio](https://facundocolavini.github.io/MyPortfolio/) 
-- 👨 [linkedin.com/in/facundo-colavini](https://www.linkedin.com/in/facundo-colavini/)
-- 📫 **facu_colavini@hotmail.com**
-
+<p> <a href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></p>
+<p> 👨 [linkedin.com/in/facundo-colavini](https://www.linkedin.com/in/facundo-colavini/)</p>
+<p> 📫 **facu_colavini@hotmail.com**</p>
+<hr>
 Lastest works :
 - [Alkemy-acceleration-React](https://github.com/alkemyTech/OT130-CLIENT)
 - [Portfofio-Drexler](https://portfolio-drexler.netlify.app/)
