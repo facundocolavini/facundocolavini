@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Facundo <img align="right" width="800"  src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></h1>
+<h1 align="center">Hi 👋, I'm Facundo <img align="right" width="600"  src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Full-stack+developer"></h1>
 
 <a href="https://heroku.com/deploy">
   <img  align="right"  src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
