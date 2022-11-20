@@ -7,11 +7,12 @@
 <img align="right"  src="https://www.opcito.com/hs-fs/hubfs/Product-and-test-engineering_01-1.gif?width=467&height=400&name=Product-and-test-engineering_01-1.gif" width="30%" height="30%"/>
 <h3>⭐ ABOUT ME</h3><br>
 <p>🌱 Im Currently learning news technologies like Next.js.</p>
-<p>🔭 Working in a personal project with MongoDB, Express, React and Node.</p>
+<p>🔭I am currently working on a project at southern horizon as a backend developer.</p>
 <p> 💻 My Stack is MERN but i love SQL Server and Cloud services.</p>
 <p> 🛠 Performance Web and Web Development.</p>
 <p>✨I am passionate about web design and UI interfaces.</p>
 <p>📘 I am a Technician in Applied Computer Science from the <a target="_blank" href="https://inspt.utn.edu.ar/carreras/informatica_aplicada/">UTN INSPT</a>.</p>
+<p>✨Fun fact: I'm in a band called Red Patrol and I'm a the second guitar player... if you're interested, give us a listen. <a target="_blank" href="https://open.spotify.com/artist/75CEMPTWza6autpdbNdTGK?si=x5VXQKyTSE2XqtpKh6UKqg">album</a></p>
 
 <h3>💬 CONTACT ME</h3><br>
 <p> 💊 <a target="_blank" href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></p>
