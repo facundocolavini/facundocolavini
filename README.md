@@ -11,7 +11,7 @@
 <p> 💻 My Stack is MERN but i love SQL Server and Cloud services.</p>
 <p> 🛠 Performance Web and Web Development.</p>
 <p>✨I am passionate about web design and UI interfaces.</p>
-<p>📘 I am a Technician in Applied Computer Science from the <a target="_blank" href="http://www.inspt.utn.edu.ar/academica/60_informatica_aplicada.html">UTN INSPT</a>.</p>
+<p>📘 I am a Technician in Applied Computer Science from the <a target="_blank" href="https://inspt.utn.edu.ar/carreras/informatica_aplicada/">UTN INSPT</a>.</p>
 
 <h3>💬 CONTACT ME</h3><br>
 <p> 💊 <a target="_blank" href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></p>
@@ -49,7 +49,7 @@ Cuando saquemos el disco agregar esto :
 
 Here are some ideas to get you started:
 <p>✨Fun fact: I'm in a band called Red Patrol and I'm a the second guitar player... if you're interested, give us a listen.</p>
-- 🔭 I’m currently working on drexler portfolio a project freelance
+- 🔭 I’m currently working on Southern Horizon on Backend project using Node.js , TypeScript and MySql.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
