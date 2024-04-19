@@ -15,7 +15,7 @@
 <p>✨Fun fact: I'm in a band called Red Patrol and I'm a the second guitar player... if you're interested, give us a listen. <a target="_blank" href="https://open.spotify.com/artist/75CEMPTWza6autpdbNdTGK?si=x5VXQKyTSE2XqtpKh6UKqg">album</a></p>
 
 <h3>💬 CONTACT ME</h3><br>
-<p> 💊 <a target="_blank" href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></p>
+<!-- <p> 💊 <a target="_blank" href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></p> -->
 <p> 👨 <a target="_blank" href="https://www.linkedin.com/in/facundo-colavini">linkedin.com/in/facundo-colavini</a></p>
 <p> 📫 facu_colavini@hotmail.com</p>
 
