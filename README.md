@@ -17,10 +17,10 @@
 <h3>💬 CONTACT ME</h3><br>
 <!-- <p> 💊 <a target="_blank" href="https://facundocolavini.github.io/MyPortfolio/">Portfolio</a></p> -->
 <p> 👨 <a target="_blank" href="https://www.linkedin.com/in/facundo-colavini">linkedin.com/in/facundo-colavini</a></p>
-<p> 📫 facu_colavini@hotmail.com</p>
+<p> 📫 facundo.colavini@gmail.com</p>
 
 <img align="right" src="https://makersmind.in/assets/images/trainweb.gif" width="30%" height="30%"/>
-<h3>🔭 LASTEST WORKS</h3><br>
+<h3>🔭 LATEST WORKS</h3><br>
 <p><a target="_blank" href="https://github.com/alkemyTech/OT130-CLIENT">Alkemy-acceleration-React</a></p>
 <p><a target="_blank" href="https://portfolio-drexler.netlify.app/">Portfofio-Drexler</a></p>
 <p><a target="_blank" href="https://etereo-art-studio.netlify.app/">Etéro-Art-Studio</a></p>
