@@ -11,7 +11,7 @@
 <p>💻 Getting familiar with MERN and SQL.</p>
 <p>🛠 Performance Web and Web Development.</p>
 <p>✨I am passionate about web design and UI interfaces.</p>
-<p>📘 I am a Technician in Applied Computer Science from the <a target="_blank" href="https://inspt.utn.edu.ar/carreras/informatica_aplicada/">UTN INSPT</a>.</p>
+<p>📘Technician in Applied Computer Science graduated from <a target="_blank" href="https://inspt.utn.edu.ar/carreras/informatica_aplicada/">UTN INSPT</a>.</p>
 <p>✨Fun fact: I'm in a band called Red Patrol and I'm a the second guitar player... if you're interested, give us a listen. <a target="_blank" href="https://open.spotify.com/artist/75CEMPTWza6autpdbNdTGK?si=x5VXQKyTSE2XqtpKh6UKqg">album</a></p>
 
 <h3>💬 CONTACT ME</h3><br>
