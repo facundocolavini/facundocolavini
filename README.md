@@ -6,10 +6,10 @@
 
 <img align="right"  src="https://www.opcito.com/hs-fs/hubfs/Product-and-test-engineering_01-1.gif?width=467&height=400&name=Product-and-test-engineering_01-1.gif" width="30%" height="30%"/>
 <h3>⭐ ABOUT ME</h3><br>
-<p>🌱 Learning news technologies like Next.js and Astro.</p>
+<p>🌱 Learning new technologies like Next.js and Astro.</p>
 <p>🔭 Frontend web dev in Southern Horizons.</p>
 <p>💻 Getting familiar with MERN and SQL.</p>
-<p>🛠 Performance Web and Web Development.</p>
+<p>🛠 Web Performance and Web Development.</p>
 <p>✨I am passionate about web design and UI interfaces.</p>
 <p>📘Technician in Applied Computer Science graduated from <a target="_blank" href="https://inspt.utn.edu.ar/carreras/informatica_aplicada/">UTN INSPT</a>.</p>
 <p>✨Fun fact: I'm in a band called Red Patrol and I'm a the second guitar player... if you're interested, give us a listen. <a target="_blank" href="https://open.spotify.com/artist/75CEMPTWza6autpdbNdTGK?si=x5VXQKyTSE2XqtpKh6UKqg">album</a></p>
