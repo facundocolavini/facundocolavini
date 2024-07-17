@@ -7,7 +7,7 @@
 <img align="right"  src="https://www.opcito.com/hs-fs/hubfs/Product-and-test-engineering_01-1.gif?width=467&height=400&name=Product-and-test-engineering_01-1.gif" width="30%" height="30%"/>
 <h3>⭐ ABOUT ME</h3><br>
 <p>🌱 Im Currently learning news technologies like Next.js.</p>
-<p>🔭I am currently working on a project at southern horizon as a backend developer.</p>
+<p>🔭 Frontend web dev in Southern Horizons.</p>
 <p> 💻 My Stack is MERN but i love SQL Server and Cloud services.</p>
 <p> 🛠 Performance Web and Web Development.</p>
 <p>✨I am passionate about web design and UI interfaces.</p>
