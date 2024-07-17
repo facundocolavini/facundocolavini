@@ -26,7 +26,7 @@
 <p><a target="_blank" href="https://etereo-art-studio.netlify.app/">Etéro-Art-Studio</a></p>
 <p><a target="_blank" href="https://github.com/facundocolavini/superheroes">Superheroes Challenge app for alkemy</a></p>
 
-<h3>🛠 STACK</h3><br>
+<h3>🛠 MY STACK</h3><br>
 <a href="https://www.w3schools.com/sass/" target="blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/office/48/000000/react.png"/></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
